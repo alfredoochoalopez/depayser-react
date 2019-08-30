@@ -22,10 +22,10 @@ const genders = [
 ]
 
 const Home = () => (
-    <div className="background">
+    <div className="home background">
         <div className="gradient">
             <div className="container">
-                <h1>Bienvenido</h1>
+                <h1 className="pt-5">Bienvenido</h1>
             </div>
         </div>
         <Container>
